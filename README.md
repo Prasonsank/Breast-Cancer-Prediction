@@ -20,6 +20,4 @@ The project uses the **Breast Cancer Wisconsin (Diagnostic) Dataset**, available
 ## Results
 - Achieved high accuracy in distinguishing between **benign** and **malignant** tumors.  
 - Showed how preprocessing and feature selection improve machine learning performance.  
-
-## License
-This project is intended for educational purposes only.  
+  
